@@ -409,9 +409,9 @@
     <file path="$APPLICATION_HOME_DIR$/plugins/SpringData/lib/spring-data-support.jar!/resources/schemas/spring-repository-1.0.xsd" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367075415596" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/SpringData/lib/spring-data-support.jar!/resources/schemas/spring-jpa-1.0.xsd" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367075415596" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/CDI/lib/cdi-support.jar!/resources/schemas/beans_1_1.xsd" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367075415596" ignored="false" />
-    <file path="/dummy.txt" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367203596119" ignored="false" />
+    <file path="/dummy.txt" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367204991424" ignored="false" />
     <file path="$PROJECT_DIR$/../python/readme" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367202894480" ignored="false" />
-    <file path="/readme" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367202894119" ignored="false" />
+    <file path="/readme" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367205005093" ignored="false" />
     <file path="$PROJECT_DIR$/../python/really.py" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367203606850" ignored="false" />
     <file path="/really.py" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367203548703" ignored="false" />
     <file path="/shit" changelist="001d9dab-c403-458b-bc81-25fab821805f" time="1367203974719" ignored="false" />
@@ -513,10 +513,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="27" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.42730495">
+            <state line="35" column="11" selection-start="1625" selection-end="1625" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -549,6 +558,7 @@
       <command text="git status" />
       <command text="git add build.xml" />
       <command text="git commit" />
+      <command text="touch readme" />
     </commandsHistory>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -557,7 +567,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/net/bible/ListAll.java" />
         <option value="$PROJECT_DIR$/res/layout/fav.xml" />
         <option value="$PROJECT_DIR$/src/net/bible/utitlty/favlist2.java" />
         <option value="$PROJECT_DIR$/src/net/bible/utitlty/MyUtility.java" />
@@ -573,6 +582,7 @@
         <option value="$PROJECT_DIR$/src/net/bible/favlist2.java" />
         <option value="$PROJECT_DIR$/src/net/bible/favlist.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/readme" />
       </list>
     </option>
   </component>
@@ -1089,11 +1099,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/net/bible/ListAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="438" selection-end="619" vertical-scroll-proportion="0.44990548" />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/android/sdk/sources/android-16/android/content/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="22" selection-start="1831" selection-end="1863" vertical-scroll-proportion="0.33272395" />
@@ -1186,7 +1191,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="27" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.42730495">
+        <state line="35" column="11" selection-start="1625" selection-end="1625" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
